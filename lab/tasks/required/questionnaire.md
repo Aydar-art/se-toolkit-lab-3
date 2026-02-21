@@ -32,3 +32,4 @@ Fill in each answer below. Replace `___` with the correct value.
 2. Where do you set the API key value for Docker Compose? (file name): .env.docker.secret
 
 ##
+##
